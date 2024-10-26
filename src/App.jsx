@@ -6,7 +6,7 @@ import Footer from "./components/Footer/Footer";
 import Projects from "./components/Projects/Projects";
 function App() {
   return (
-  <div className="bg-[#f3f4b911 h-auto w-full overflow-hidden">
+  <div className="bg-[#f3f4b91] h-auto w-full overflow-hidden">
   <Navbar />
   <Home />
   <About />
